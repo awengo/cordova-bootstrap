@@ -20,7 +20,7 @@
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
     <name>Cordova Bootstrap</name>
-    <description>A web app that can be run in the browser or deployed to a hybrid app.</description>
+    <description>A web app using Twitter Bootstrap and FT Fastclick</description>
     <author href="http://kmturley.blogspot.com">kmturley</author>
     <content src="index.html" />
     <access origin="*" />
