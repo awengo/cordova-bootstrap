@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.bootstrap" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cordova Bootstrap</name>
+    <description>A web app using Twitter Bootstrap and FT Fastclick</description>
+    <author href="http://kmturley.blogspot.com">kmturley</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="WebViewBounce" value="true" />
+    <preference name="DisallowOverscroll" value="true" />
+</widget>
